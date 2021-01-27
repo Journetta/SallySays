@@ -1,4 +1,4 @@
-MOST RECENT RELEASE DOWNLOAD HERE: https://github.com/Journetta/SallySays/releases/latest
+## MOST RECENT RELEASE DOWNLOAD HERE: https://github.com/Journetta/SallySays/releases/latest
 
 # SallySays
 Simple Windows Batch Script That will Repeat Your Input as a Character Called "Sally"
