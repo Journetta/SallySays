@@ -1,5 +1,3 @@
-## MOST RECENT RELEASE DOWNLOAD HERE: https://github.com/Journetta/SallySays/releases/latest
-
 # SallySays
 Simple Windows Batch Script That will Repeat Your Input as a Character Called "Sally"
  # What it does
@@ -25,3 +23,5 @@ Simple Windows Batch Script That will Repeat Your Input as a Character Called "S
  D = Light Purple
  E = Light Yellow
  F = Bright White
+
+## MOST RECENT RELEASE DOWNLOAD HERE: https://github.com/Journetta/SallySays/releases/latest
